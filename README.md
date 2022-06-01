@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishi Soni.
-- 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning deep learning and neural networks with Keras.
+- 👀 I’m interested in artificial intelligence and robotics.
+- 🌱 I’m currently learning deep learning with TensorFlow/Keras.
 - 📫 How to reach me: rishisoni.5678@gmail.com
 
 <!---
