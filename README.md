@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishi Soni.
-- 👀 I’m interested in artificial intelligence and robotics.
+- 👀 I’m interested in artificial intelligence, web development, and robotics.
 - 🌱 I’m currently learning to create full stack apps with React and Node.
 - 📫 How to reach me: rsoni37@gatech.edu
 
