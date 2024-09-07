@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishi Soni.
-- 👀 I’m interested in artificial intelligence, finance, full-stack development, and robotics.
+- 👀 I’m interested in artificial intelligence, finance, software development, and robotics.
 - 🌱 I’m currently learning Go.
 - 📫 How to reach me: rsoni37@gatech.edu
 
