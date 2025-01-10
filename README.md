@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishi Soni.
 - 👀 I’m interested in artificial intelligence, finance, software development, and robotics.
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently a Voxel Game Engine using C++ and OpenGL.
 - 📫 How to reach me: rsoni37@gatech.edu
 
 <!---
